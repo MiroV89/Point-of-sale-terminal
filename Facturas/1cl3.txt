@@ -1,0 +1,18 @@
+===========================Numero Factura: 2==================================
+==============================================================================
+==========================08-mar-2015 14:50:14================================
+==============================================================================
+===================CIF VENDEDORPonerCifRazon Social:razonSc===================
+==============================================================================
+Datos del cliente:
+
+Codigo cliente: 3NIF: X32982N
+Nombre: Yo
+Apellidos: Ahora Mismo   
+Razon Social: noseloquees
+Domicilio: muy lejos
+Fecha alta: hoy
+
+CocaCola  	 Tique: 20150228211903cl3	 Cantidad: 1	 TOTAL: 1.0
+CocaCola  	 Tique: 20150228211903cl3	 Cantidad: 1	 TOTAL: 1.0
+							TOTAL FACTURA: 2.0

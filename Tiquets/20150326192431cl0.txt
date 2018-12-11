@@ -1,0 +1,15 @@
+CocaCola*1*Light*1.0*1
+Fanta*2*normal*0.9*1
+Sprite*3*lima*80.0*1
+JB*4*normal*25.0*1
+vino*5*donSimon*0.4*1
+Aquarius*6*Limon*1.2*1
+Zumo*7*Naranja*1.5*1
+Bacardi*8*Limon*5.3*1
+Kas*9*Naranja*1.0*1
+Kas*10*Limon*1.0*1
+Agua*11*0,5 L*0.6*1
+Agua*12*1.0 L*0.9*1
+Agua*13*2.0 L*1.5*1
+Agua*14*5.0 l*5.0*1
+aguarras*15*malo para la salud*1.5*1

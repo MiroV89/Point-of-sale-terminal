@@ -1,0 +1,7 @@
+0*0*Generico*por defecto    *0*0*00-00-0000
+1*1342X*Juan*De Alli     *soltero*calle tralala*24-02-2015
+2*73219P*Javi*Del Bosque    *RazonSC*Calle libertad*01-03-2015
+3*X32982N*Yo*Ahora Mismo     *noseloquees*muy lejos*hoy
+150*xq3dfa*jaimito*del arbol  *trilolai*lejos*16-04-2015
+150*xq3dfa*jaimito*del arbol  *de por ahi*lejos*16-04-2015
+150*xq3dfa*jaimito*del arbol  *trilolai*lejos*16-04-2015

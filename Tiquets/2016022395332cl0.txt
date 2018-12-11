@@ -1,0 +1,2 @@
+CocaCola*1*Light*1.0*1
+Agua*11*0,5 L*0.6*1

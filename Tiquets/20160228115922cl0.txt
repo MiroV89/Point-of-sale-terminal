@@ -1,0 +1,3 @@
+CocaCola*1*Light*1.0*1
+Fanta*2*normal*0.9*1
+Sprite*3*lima*80.0*1

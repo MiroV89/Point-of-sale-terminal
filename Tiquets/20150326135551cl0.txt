@@ -1,0 +1,2 @@
+Fanta*2*normal*0.9*3
+CocaCola*1*Light*1.0*7

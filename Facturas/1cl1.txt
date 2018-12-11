@@ -1,0 +1,34 @@
+===========================Numero Factura: 2====================================
+==============================================================================
+========================== 21-50-37    16/04/2015 =================================
+==============================================================================
+=============CIF Vendedor:        Razon Social:  ============
+==============================================================================
+Datos del cliente:
+
+Codigo cliente: 1
+CIF: 1342X
+Nombre: Juan
+Apellidos: De Alli   
+Razon Social: soltero
+Domicilio: calle tralala
+Fecha alta: 24-02-2015
+
+CocaCola        	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 1.0 €
+CocaCola        	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 1.0 €
+Fanta           	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 0.9 €
+Fanta           	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 0.9 €
+Sprite          	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 80.0 €
+Sprite          	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 80.0 €
+Agua            	 Tique: 20150416214924cl1	 Cantidad: 1	 TOTAL: 0.9 €
+CocaCola        	 Tique: 20150416214924cl1	 Cantidad: 12	 TOTAL: 12.0 €
+CocaCola        	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 1.0 €
+CocaCola        	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 1.0 €
+Fanta           	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 0.9 €
+Fanta           	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 0.9 €
+Sprite          	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 80.0 €
+Sprite          	 Tique: 20150326194020cl1	 Cantidad: 1	 TOTAL: 80.0 €
+Agua            	 Tique: 20150416214924cl1	 Cantidad: 1	 TOTAL: 0.9 €
+CocaCola        	 Tique: 20150416214924cl1	 Cantidad: 12	 TOTAL: 12.0 €
+
+							TOTAL FACTURA: 353,40 €

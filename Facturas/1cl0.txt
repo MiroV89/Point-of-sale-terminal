@@ -1,0 +1,48 @@
+===========================Numero Factura: 2====================================
+==============================================================================
+========================== 21-49-13    25/03/2016 =================================
+==============================================================================
+=============CIF Vendedor:        Razon Social:  ============
+==============================================================================
+Datos del cliente:
+
+Codigo cliente: 0
+CIF: 0
+Nombre: Generico
+Apellidos: por defecto    
+Razon Social: null
+Domicilio: 0
+Fecha alta: 00-00-0000
+
+Fanta           	 Tique: 20150326135551cl0	 Cantidad: 3	 TOTAL: 2.7 €
+CocaCola        	 Tique: 20150326135551cl0	 Cantidad: 7	 TOTAL: 7.0 €
+Aquarius        	 Tique: 20150326192259cl0	 Cantidad: 2	 TOTAL: 2.4 €
+Zumo            	 Tique: 20150326192259cl0	 Cantidad: 1	 TOTAL: 1.5 €
+CocaCola        	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 1.0 €
+Fanta           	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 0.9 €
+Sprite          	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 80.0 €
+JB              	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 25.0 €
+vino            	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 0.4 €
+Aquarius        	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 1.2 €
+Zumo            	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 1.5 €
+Bacardi         	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 5.3 €
+Kas             	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 1.0 €
+Kas             	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 1.0 €
+Agua            	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 0.6 €
+Agua            	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 0.9 €
+Agua            	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 1.5 €
+Agua            	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 5.0 €
+aguarras        	 Tique: 20150326192431cl0	 Cantidad: 1	 TOTAL: 1.5 €
+aguarras        	 Tique: 20150416221257cl0	 Cantidad: 1	 TOTAL: 1.5 €
+CocaCola        	 Tique: 2016022395332cl0	 Cantidad: 1	 TOTAL: 1.0 €
+Agua            	 Tique: 2016022395332cl0	 Cantidad: 1	 TOTAL: 0.6 €
+Agua            	 Tique: 2016022395447cl0	 Cantidad: 10	 TOTAL: 9.0 €
+CocaCola        	 Tique: 2016022395447cl0	 Cantidad: 2	 TOTAL: 2.0 €
+CocaCola        	 Tique: 20160228115922cl0	 Cantidad: 1	 TOTAL: 1.0 €
+Fanta           	 Tique: 20160228115922cl0	 Cantidad: 1	 TOTAL: 0.9 €
+Sprite          	 Tique: 20160228115922cl0	 Cantidad: 1	 TOTAL: 80.0 €
+CocaCola        	 Tique: 20160306184304cl0	 Cantidad: 1	 TOTAL: 1.0 €
+Agua            	 Tique: 20160324140454cl0	 Cantidad: 10	 TOTAL: 9.0 €
+CocaCola        	 Tique: 20160324140454cl0	 Cantidad: 2	 TOTAL: 2.0 €
+
+							TOTAL FACTURA: 248,40 €

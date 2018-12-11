@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Factura()
+comment0.text=\r\n\ Constructor\ \r\n
+comment1.params=codigoCliente\ anno
+comment1.target=void\ listarTiquetsCliente(java.lang.String,\ java.lang.String)
+comment2.params=codigoCliente\ anno\ codigoVendedor
+comment2.target=java.lang.String\ crearFactura(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDirectorio()
+comment3.text=\r\n\ Devuelve\ la\ ruta\ completa\ de\ donde\ se\ encuentra\ el\ proyecto\r\n
+comment4.params=codigoCliente\ ruta\ desdeFuera\ codigoVendedor
+comment4.target=void\ exportar(java.lang.String,\ java.lang.String,\ boolean,\ java.lang.String)
+comment4.text=\r\n\ Guarda\ el\ cuerpo\ del\ tiquet\ en\ la\ carpeta\ Tiquets\r\n
+comment5.params=ruta\ codigoCliente\ desdeFuera
+comment5.target=java.lang.String\ importar(java.lang.String,\ java.lang.String,\ boolean)
+comment6.params=nombreArchivo
+comment6.target=java.io.File\ leerArchivo(java.lang.String)
+comment6.text=\r\n\ Se\ crea\ el\ archivo\ de\ texto\ para\ importar/exportar\ nuestra\ lista\r\n
+comment7.params=
+comment7.target=java.io.File\ getCarpetaProyecto()
+comment7.text=\r\n\ Se\ accede\ a\ la\ ruta\ de\ la\ carpeta\ del\ proyecto\ TPV\r\n
+numComments=8

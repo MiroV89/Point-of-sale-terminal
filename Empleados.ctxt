@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Empleados()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Empleados\r\n
+comment1.params=codigo
+comment1.target=void\ borrarVendedor(java.lang.String)
+comment1.text=\r\n\ Eliminar\ vendedor\r\n
+comment2.params=codigo\ CIF\ razonSocial
+comment2.target=void\ nuevoVendedor(int,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Contratar\ vendedor\r\n
+comment3.params=
+comment3.target=void\ exportar()
+comment3.text=\r\n\ Guardamos\ (exportamos)\ la\ lista\ en\ un\ archivo\ de\ texto\r\n
+comment4.params=
+comment4.target=void\ importar()
+comment4.text=\r\n\ Importamos\ lista\ de\ vendedores\r\n
+numComments=5

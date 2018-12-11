@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=codigo\ CIF\ razonSocial
+comment0.target=Persona(int,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getCodigo()
+comment2.params=codigo
+comment2.target=void\ setCodigo(int)
+comment3.params=
+comment3.target=java.lang.String\ getCIF()
+comment4.params=CIF
+comment4.target=void\ setCIF(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getRazonSocial()
+comment6.params=razon
+comment6.target=void\ setRazonSocial(java.lang.String)
+numComments=7
